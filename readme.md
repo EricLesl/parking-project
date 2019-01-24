@@ -1,9 +1,10 @@
 ## Set up
 
 1. fork it & clone it on your local computer
-2. git remote add upstream https://github.com/pkboom/parking-project
-3. git remote -v
-4. if you see something like this below, then you're all set.
+2. cd parking-project
+3. git remote add upstream https://github.com/pkboom/parking-project
+4. git remote -v
+5. if you see something like this below, then you're all set.
 
 ```
 origin https://github.com/(your-github-id)/parking-project.git (fetch)

@@ -1,0 +1,22 @@
+{
+  "name": "parking",
+  "version": "1.0.0",
+  "description": "London Downtown Parking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkboom/parking-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkboom/parking-project/issues"
+  },
+  "homepage": "https://github.com/pkboom/parking-project#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
