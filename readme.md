@@ -35,12 +35,15 @@ upstream https://github.com/pkboom/parking-project (push)
 2. git fetch upstream
 3. git rebase upstream/master
 4. git push
+    > If you were working on a new branch
+5. git checkout your-branch-name
+6. git rebase master
 
 ## If your branch is no longer needed
 
 > Or when I say 'You branch is merged'
 
-1. git branch -d your-branch-name
+1. git branch -D your-branch-name
 2. git push origin --delete your-branch-name
 
 ## Some git commands
